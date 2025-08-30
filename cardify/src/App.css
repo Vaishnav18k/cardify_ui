@@ -45,3 +45,8 @@
 } */
 
 @import "tailwindcss";
+
+:root {
+    background: white;
+
+}
