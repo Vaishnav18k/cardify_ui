@@ -1,10 +1,10 @@
-import Footer from '../Components/Footer'
+// import Footer from '../Components/Footer'
 import Navbar from '../Components/Navbar'
 function Contact() {
   return (
     <div>
 <Navbar/>
-<Footer/>
+{/* <Footer/> */}
     </div>
    
   )
