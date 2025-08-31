@@ -4,7 +4,7 @@ import {BrowserRouter as Router, Routes, Route} from 'react-router-dom'
 import Home from './Pages/HomePage'
 import AboutPage from './Pages/AboutPage'
 import Feature from './Pages/Services'
-import Marketplace from './Pages/Marketplace'
+import Marketplace from './Pages/Features'
 import Contact from './Pages/Contact'
 function App() {
   // const [count, setCount] = useState(0)
